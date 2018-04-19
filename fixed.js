@@ -1,0 +1,4 @@
+$('colorsBtn').click(function(){
+	
+	
+}
